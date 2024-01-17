@@ -1,0 +1,3 @@
+该资源由淘宝店铺：微智启软件工作室  整理，集成了一些必备的资源，优化了一些参数。
+
+字体存放位置：C:\Users\Administrator\AppData\Roaming\Ultralytics（Administrator是自己的用户名）
